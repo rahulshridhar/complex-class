@@ -12,6 +12,6 @@ complex h(5) ; //In that case x = 5, y = 0 ;
 complex h(5,-8) ; //In that case x = 5 and y = -8
 
 Steps to run the program:-
-1. cd complex-class
+1. cd complex
 2. g++ -std=c++11 complex.cpp complextest.cpp -o complex
 3. ./complex
